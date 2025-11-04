@@ -27,32 +27,18 @@ Soy un desarrollador apasionado por la tecnología y el aprendizaje continuo. Me
   <tr>
     <td align="center" width="140">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65" alt="JavaScript" />
-      <br><strong>JavaScript</strong>
+      
     </td>
     <td align="center" width="140">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="65" height="65" alt="C++" />
-      <br><strong>C++</strong>
+      
     </td>
     <td align="center" width="140">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65" height="65" alt="Java" />
-      <br><strong>Java</strong>
+      
     </td>
   </tr>
 </table>
-
-</div>
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santtisosa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santtisosa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santtisosa&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
 
