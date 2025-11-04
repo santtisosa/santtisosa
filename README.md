@@ -27,15 +27,12 @@ Soy un desarrollador apasionado por la tecnología y el aprendizaje continuo. Me
   <tr>
     <td align="center" width="140">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65" alt="JavaScript" />
-      
     </td>
     <td align="center" width="140">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="65" height="65" alt="C++" />
-      
     </td>
     <td align="center" width="140">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65" height="65" alt="Java" />
-      
     </td>
   </tr>
 </table>
