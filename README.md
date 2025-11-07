@@ -29,6 +29,7 @@ Actualmente estoy aprendiendo **React** y explorando el mundo del desarrollo web
 
 
 
-## 📌 Proyecto Destacado
+## 📌 Proyectos en los que estoy trabajando
 
+**[plataforma-reventa-entradas](https://github.com/santtisosa/plataforma-reventa-entradas)** - Sistema para reventa de tickets
 **[tracker-materias](https://github.com/santtisosa/tracker-materias)** - Sistema para rastrear y organizar materias académicas
