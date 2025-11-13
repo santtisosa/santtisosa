@@ -36,3 +36,5 @@ Actualmente estoy aprendiendo **React** y explorando el mundo del desarrollo web
   
 **[tracker-materias](https://github.com/santtisosa/tracker-materias)** - Sistema para rastrear y organizar materias académicas
 
+**[pomodoro-timer](https://github.com/santtisosa/pomodoro-timer)** - Pomodoro timer deployado con github pages
+
