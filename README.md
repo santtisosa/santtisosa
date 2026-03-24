@@ -2,8 +2,7 @@
 
 <div align="center">
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=santtisosa&theme=github-compact&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
+![Contributions](https://github.pumbas.net/api/contributions/santtisosa?bgColour=161B22)
 Desarrollador apasionado por la tecnología y el aprendizaje continuo.
 
 ## 🚀 Sobre Mí
