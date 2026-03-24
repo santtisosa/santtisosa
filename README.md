@@ -23,17 +23,11 @@ Actualmente estoy aprendiendo **React** y explorando el mundo del desarrollo web
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50" height="50" alt="Go" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
 
 </div>
 
 
-
-## 📌 Proyectos en los que estoy trabajando
-
-**[plataforma-reventa-entradas](https://github.com/santtisosa/plataforma-reventa-entradas)** - Sistema para reventa de tickets
-
-  
-**[tracker-materias](https://github.com/santtisosa/tracker-materias)** - Sistema para rastrear y organizar materias académicas
-
-**[pomodoro-timer](https://github.com/santtisosa/pomodoro-timer)** - Pomodoro timer deployado con github pages
 
