@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Contributions](https://github.pumbas.net/api/contributions/santtisosa?bgColour=161B22)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santtisosa&theme=github_dark)
 Desarrollador apasionado por la tecnología y el aprendizaje continuo.
 
 ## 🚀 Sobre Mí
