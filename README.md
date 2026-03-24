@@ -3,8 +3,7 @@
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Desarrollador+Apasionado;Aprendiendo+React;Construyendo+el+Futuro)
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=santtisosa)](https://git.io/streak-stats)
-  
+![Santiago's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=santtisosa&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true)  
 </div>
 
 Desarrollador apasionado por la tecnología y el aprendizaje continuo.
