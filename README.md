@@ -1,4 +1,4 @@
-# 👋 Hola, soy Santiago
+# 👋 Hola, soy Santiago.
 
 <div align="center">
   
