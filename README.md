@@ -14,7 +14,6 @@ Actualmente estoy aprendiendo **React** y explorando el mundo del desarrollo web
 📫 **Contacto:** santiagososatraibel@gmail.com
 
 
-
 ## 🛠️ Tecnologías
 
 <div align="center">
