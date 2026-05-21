@@ -7,7 +7,7 @@ I love exploring how things work and learning something new every day. 🚀
 
 ---
 
-[Check my web](https://santiagososa.dev/)
+## [Check my web](https://santiagososa.dev/)
 
 ---
 
