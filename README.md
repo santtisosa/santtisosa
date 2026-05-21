@@ -7,7 +7,7 @@ I love exploring how things work and learning something new every day. 🚀
 
 ---
 
-## [Check my web](https://santiagososa.dev/)
+<h1><a href="https://santiagososa.dev/" style="color: green;">Check my web</a></h1>
 
 ---
 
