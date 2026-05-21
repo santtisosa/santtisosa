@@ -7,6 +7,10 @@ I love exploring how things work and learning something new every day. 🚀
 
 ---
 
+https://santiagososa.dev/
+
+---
+
 <p><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1000&color=40C463&width=435&lines=ENJOY+THE+JOURNEY" alt="Typing SVG" /></p>
 
 
