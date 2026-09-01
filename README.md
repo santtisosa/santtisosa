@@ -1,5 +1,5 @@
 <div align="center">
 
-<img src="grid.gif" alt="" width="100%" />
+<img src="grid-212.gif" alt="" width="100%" />
 
 </div>
